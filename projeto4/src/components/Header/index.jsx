@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-export default function Header(params) {
+export default function Header() {
     return(
         <header className="header">
             <div className="container">Supermercado</div>
